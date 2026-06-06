@@ -14,7 +14,7 @@ Google Colab with NVCC Compiler
 
 ## PROCEDURE:
  CUDA_SharedMemory_AccessPatterns:
-
+ 
 1. Begin Device Setup
     1.1 Select the device to be used for computation
     1.2 Retrieve the properties of the selected device
